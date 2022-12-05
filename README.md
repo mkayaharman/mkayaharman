@@ -1,7 +1,7 @@
 ### Hi, I am Muhammed. I am a Data Scientist. 👋
 
 - 🔭 I’m currently a PhD Candidate at University of Waterloo
-- 📫 How to reach me: 
+###  📫 How to reach me: 
 <a href="https://www.linkedin.com/in/mkayaharman/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/mkayaharman/">
 </a>
