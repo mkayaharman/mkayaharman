@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/numpy/numpy/blob/main/branding/logo/secondary/numpylogo2.png" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
   <img src="https://github.com/scipy/archive/blob/main/branding/logos/scipy_logo.svg" title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
+  <img src="  https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" title="Scipy" alt="Scipy" height="80"/>&nbsp;
   
 </div>
 
