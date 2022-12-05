@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" height="80"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" height="80"/>&nbsp; 
-  
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" title="Scikit-learn" alt="Scikit-learn" height="80"/>&nbsp; 
+ 
   
   
 </div>
