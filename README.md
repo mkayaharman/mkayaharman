@@ -1,7 +1,7 @@
 ### Hi, I am Muhammed. I am a Data Scientist. 👋
 
 - 🔭 I’m currently a PhD Candidate at University of Waterloo
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mkayaharman/)
+- 📫 How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/mkayaharman/)
 
 <!--
 **mkayaharman/mkayaharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
