@@ -1,6 +1,6 @@
 ### Hi, I am Muhammed. I am a Data Scientist. 👋
 
-- 🔭 I’m currently a PhD Candidate at University of Waterloo
+🔭 I’m currently a PhD Candidate at University of Waterloo
 
 ###  📫 How to reach me: 
 
