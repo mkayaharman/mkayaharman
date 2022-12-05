@@ -5,8 +5,8 @@
 ###  📫 How to reach me: 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/mkayaharman/)  &nbsp; 
-<a href="mailto:mkayaharm@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="5%"/>](https://public.tableau.com/app/profile/muhammed.kayaharman) 
+<a href="mailto:mkayaharm@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> &nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="5%"/>](https://public.tableau.com/app/profile/muhammed.kayaharman)  &nbsp;
  
  
 
