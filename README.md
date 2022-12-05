@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>&nbsp;
   <img src="https://github.com/scipy/archive/blob/main/branding/logos/scipy_logo.svg" title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="MS SQL" alt="MS SQL" width="80" height="80"/>&nbsp;
+</a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="80" height="80"/>&nbsp;
   
   
 </div>
