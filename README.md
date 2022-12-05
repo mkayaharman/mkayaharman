@@ -1,11 +1,12 @@
-### Hi, I am Muhammed. I am a Data Scientist. 👋
+### Hi, I am Muhammed. 👋
 
-🔭 I’m currently a PhD Candidate at University of Waterloo
+
 
 ###  📫 How to reach me: 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/mkayaharman/)  &nbsp; 
 <a href="mailto:mkayaharm@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
+ 
  
 
 ###  👨🏻‍💻 Languages and Tools: 
