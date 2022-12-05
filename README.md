@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Muhammed. I am a Data Scientist. 👋
 
 <!--
 **mkayaharman/mkayaharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
