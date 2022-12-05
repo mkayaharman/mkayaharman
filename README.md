@@ -1,9 +1,7 @@
 ### Hi, I am Muhammed. I am a Data Scientist. 👋
 
 - 🔭 I’m currently a PhD Candidate at University of Waterloo
-- 📫 How to reach me: 
-</a>
-    href="https://www.linkedin.com/in/yseryilmaz/" target="_blank">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yseryilmaz/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yseryilmaz/">
 </a>
 
@@ -11,19 +9,6 @@
     <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg"  width="25" height="25" alt="mailto:yusuferyilmaz1819@gmail.com">
 </a>
 
-<!--
-**mkayaharman/mkayaharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ###  🚀 Skills
 
 <div>
