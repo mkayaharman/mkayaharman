@@ -4,10 +4,8 @@
 
 ###  📫 How to reach me: 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/mkayaharman/)  &nbsp; 
-<a href="mailto:mkayaharm@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="22%"/>](https://public.tableau.com/app/profile/muhammed.kayaharman)  &nbsp;
- 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryemvildansarikaya/)
+[![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/vildan.sarikaya#!/) 
  
 
 ###  👨🏻‍💻 Languages and Tools: 
