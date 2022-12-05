@@ -4,8 +4,8 @@
 
 ###  📫 How to reach me: 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryemvildansarikaya/)
-[![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/vildan.sarikaya#!/) 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkayaharman/)
+[![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/app/profile/muhammed.kayaharman) 
  
 
 ###  👨🏻‍💻 Languages and Tools: 
