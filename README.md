@@ -16,7 +16,7 @@
 <a href="mailto:mkayaharm@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
  
 
-###  🚀 Skills
+###  👨🏻‍💻 Languages and Tools: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
