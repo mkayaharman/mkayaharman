@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yseryilmaz/">
 
 
-<a href="mailto:yusuferyilmaz1819@gmail.com" target="_blank">
+    href="mailto:yusuferyilmaz1819@gmail.com" target="_blank">
     <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg"  width="25" height="25" alt="mailto:yusuferyilmaz1819@gmail.com">
 </a>
 
