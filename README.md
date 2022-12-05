@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/numpy/numpy/blob/main/branding/logo/secondary/numpylogo2.png" title="NumPy" alt="NumPy" width="80" height="80"/>&nbsp;
 
   
 </div>
