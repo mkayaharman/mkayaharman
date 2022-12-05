@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently a PhD Candidate at University of Waterloo
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/yseryilmaz/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/yseryilmaz/">
+<a href="https://www.linkedin.com/in/mkayaharman/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/mkayaharman/">
 </a>
 
-<a href="mailto:yusuferyilmaz1819@gmail.com" target="_blank">
-    <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg"  width="25" height="25" alt="mailto:yusuferyilmaz1819@gmail.com">
+<a href="mailto:mkayaharm@gmail.com" target="_blank">
+    <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg"  width="25" height="25" alt="mailto:mailto:mkayaharm@gmail.com">
 </a>
 
 ###  🚀 Skills
