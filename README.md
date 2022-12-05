@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>&nbsp;
   <img src="https://github.com/scipy/archive/blob/main/branding/logos/scipy_logo.svg" title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="MS SQL" alt="MS SQL" width="80" height="80"/>&nbsp;
-  <img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" title="Tableau" alt="Tableau" height="80"/>&nbsp;
+  <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="Tableau" alt="Tableau" height="80"/>&nbsp;
   
   
 </div>
