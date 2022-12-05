@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/scipy/archive/blob/main/branding/logos/scipy_logo.svg" title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="MS SQL" alt="MS SQL" width="80" height="80"/>&nbsp;
   <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="Tableau" alt="Tableau" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" height="80"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" height="80"/>&nbsp; 
   
 </div>
 
