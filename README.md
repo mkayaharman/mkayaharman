@@ -2,14 +2,6 @@
 
 - 🔭 I’m currently a PhD Candidate at University of Waterloo
 
-<a href="https://www.linkedin.com/in/mkayaharman/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/mkayaharman/">
-</a>
-
-<a href="mailto:mkayaharm@gmail.com" target="_blank">
-    <img src="https://github.com/eryilmazysf/eryilmazysf/blob/main/gmail.jpg"  width="25" height="25" alt="mailto:mailto:mkayaharm@gmail.com">
-</a>
-
 ###  📫 How to reach me: 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/mkayaharman/)  &nbsp; 
