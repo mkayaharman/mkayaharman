@@ -1,5 +1,5 @@
 ### Hi, I am Muhammed. 👋
-
+I'm a data analyst/data scientist with a passion for uncovering insights from data. I have experience in various industries including finance, retail, and healthcare. I specialize in data preparation, exploratory analysis, and creating actionable insights for decision-makers. My goal is to turn data into meaningful information that drives better business outcomes.
 
 
 ###  📫 How to reach me: 
